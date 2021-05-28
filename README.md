@@ -83,6 +83,6 @@ Open terminal or cmd and type step 9
 <h3> Now you can see TCP and HTTP tunnels Works in same time</h3>
 
 
-GITHUB  :  https://github.com/1S3M4U
-WEB     :  www.paladotkodotau
-Email   :  isemau@uruskon.com
+<p>GITHUB  :  https://github.com/1S3M4U</p>
+<p>WEB     :  www.paladotkodotau</p>
+<p>Email   :  isemau@uruskon.com</p>
